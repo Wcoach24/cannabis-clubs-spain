@@ -69,7 +69,7 @@ export default function ValenciaPage() {
     <ArticleLayout
       title="Cannabis Clubs in Valencia — Complete Guide 2026"
       description="Discover Valencia's thriving cannabis club scene: local guide to membership, prices, legal status, and how to visit Spain's 3rd largest cannabis community."
-      heroImage="https://res.cloudinary.com/dhuc2wmhp/image/upload/f_auto,q_auto,w_1600,h_900,c_fill/cannabis-clubs-spain/city-valencia"
+      heroImage="https://res.cloudinary.com/dhuc2wmhp/image/upload/f_auto,q_auto,w_1600,h_900,c_fill/cannabis-clubs-spain/hero-valencia"
       heroAlt="Cannabis clubs in Valencia, Spain"
       breadcrumb={[{ name: "Valencia", href: "/valencia" }]}
       ctaVariant="invitation"

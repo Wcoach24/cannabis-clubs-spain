@@ -59,7 +59,7 @@ export default function MalagaPage() {
     <ArticleLayout
       title="Cannabis Clubs in Málaga & Costa del Sol"
       description="Your guide to the Mediterranean's most accessible cannabis scene. Tourist-friendly clubs, beach culture, and expat community."
-      heroImage="https://res.cloudinary.com/dhuc2wmhp/image/upload/f_auto,q_auto,w_1600,h_900,c_fill/cannabis-clubs-spain/city-malaga"
+      heroImage="https://res.cloudinary.com/dhuc2wmhp/image/upload/f_auto,q_auto,w_1600,h_900,c_fill/cannabis-clubs-spain/hero-malaga"
       heroAlt="Cannabis clubs in Málaga and Costa del Sol, Spain"
       breadcrumb={[{ name: "Málaga", href: "/malaga" }]}
       ctaVariant="invitation"

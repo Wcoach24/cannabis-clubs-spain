@@ -40,7 +40,7 @@ export default function HowToJoinPage() {
     <ArticleLayout
       title="How to Join a Cannabis Club in Spain — Step-by-Step Guide 2026"
       description="Learn the complete process: from researching clubs to getting approved for membership, plus what you'll need and practical tips for first-timers."
-      heroImage="https://res.cloudinary.com/dhuc2wmhp/image/upload/f_auto,q_auto,w_1600,h_900,c_fill/cannabis-clubs-spain/hero-join"
+      heroImage="https://res.cloudinary.com/dhuc2wmhp/image/upload/f_auto,q_auto,w_1600,h_900,c_fill/cannabis-clubs-spain/hero-how-to-join"
       heroAlt="Cannabis club lounge in Spain"
       breadcrumb={[{ name: 'How to Join', href: '/how-to-join' }]}
     >

@@ -88,7 +88,7 @@ export default function SpainVsAmsterdamPage() {
     <ArticleLayout
       title="Spain vs Amsterdam for Weed — Which Is Better in 2026?"
       description="Complete comparison of cannabis tourism: legal frameworks, club vs coffeeshop models, prices, quality, atmosphere, and which destination suits your needs."
-      heroImage="https://res.cloudinary.com/dhuc2wmhp/image/upload/f_auto,q_auto,w_1600,h_900,c_fill/cannabis-clubs-spain/spain-vs-amsterdam-hero"
+      heroImage="https://res.cloudinary.com/dhuc2wmhp/image/upload/f_auto,q_auto,w_1600,h_900,c_fill/cannabis-clubs-spain/hero-spain-vs-amsterdam"
       heroAlt="Barcelona and Amsterdam streets comparing cannabis culture"
       breadcrumb={[{ name: "Spain vs Amsterdam", href: "/spain-vs-amsterdam" }]}
       ctaVariant="guide"

@@ -11,7 +11,7 @@ export default function MadridPage() {
     <ArticleLayout
       title="Cannabis Clubs in Madrid — Guide 2026"
       description="Explore Madrid's growing cannabis social club scene with verified information and visitor guidance."
-      heroImage="https://res.cloudinary.com/dhuc2wmhp/image/upload/f_auto,q_auto,w_1600,h_900,c_fill/cannabis-clubs-spain/city-madrid"
+      heroImage="https://res.cloudinary.com/dhuc2wmhp/image/upload/f_auto,q_auto,w_1600,h_900,c_fill/cannabis-clubs-spain/hero-madrid"
       heroAlt="Madrid skyline with cannabis leaves"
       breadcrumb={[{ name: 'Madrid', href: '/madrid' }]}
       ctaVariant="invitation"

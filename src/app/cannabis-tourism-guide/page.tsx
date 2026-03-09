@@ -92,7 +92,7 @@ export default function CannabisTourismGuidePage() {
         title="Cannabis Tourism Spain Guide — Plan Your Weed Trip 2026"
         description="Everything you need to know about cannabis tourism in Spain: laws, clubs, cities, etiquette, and how to plan your trip."
         breadcrumb={breadcrumb}
-        heroImage="https://res.cloudinary.com/dhuc2wmhp/image/upload/f_auto,q_auto,w_1600,h_900,c_fill/cannabis-clubs-spain/cannabis-tourism-hero"
+        heroImage="https://res.cloudinary.com/dhuc2wmhp/image/upload/f_auto,q_auto,w_1600,h_900,c_fill/cannabis-clubs-spain/hero-tourism-guide"
         heroAlt="Cannabis tourism in Spain guide"
       >
         <p>

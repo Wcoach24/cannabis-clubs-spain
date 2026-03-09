@@ -17,7 +17,7 @@ export const metadata: Metadata = {
       "Discover cannabis clubs in Ibiza, Spain's premier party island. Tourist-friendly membership, same-day registration, and 7+ verified clubs.",
     images: [
       {
-        url: "https://res.cloudinary.com/dhuc2wmhp/image/upload/f_auto,q_auto,w_1600,h_900,c_fill/cannabis-clubs-spain/city-ibiza",
+        url: "https://res.cloudinary.com/dhuc2wmhp/image/upload/f_auto,q_auto,w_1600,h_900,c_fill/cannabis-clubs-spain/hero-ibiza",
         width: 1600,
         height: 900,
         alt: "Cannabis clubs in Ibiza, Spain",
@@ -74,7 +74,7 @@ export default function IbizaPage() {
     <ArticleLayout
       title="Cannabis Clubs in Ibiza — Complete Guide 2026"
       description="Discover 7+ cannabis clubs on Spain's premier party island. Tourist-friendly membership, flexible registration, and verified venues."
-      heroImage="https://res.cloudinary.com/dhuc2wmhp/image/upload/f_auto,q_auto,w_1600,h_900,c_fill/cannabis-clubs-spain/city-ibiza"
+      heroImage="https://res.cloudinary.com/dhuc2wmhp/image/upload/f_auto,q_auto,w_1600,h_900,c_fill/cannabis-clubs-spain/hero-ibiza"
       heroAlt="Cannabis clubs in Ibiza, Spain"
       breadcrumb={[{ name: "Ibiza", href: "/ibiza" }]}
       ctaVariant="invitation"

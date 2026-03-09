@@ -70,7 +70,7 @@ export default function SevillePage() {
     <ArticleLayout
       title="Cannabis Clubs in Seville — Best Clubs & Guide 2026"
       description="Discover Seville's vibrant cannabis club culture. 50+ associations, authentic Spanish atmosphere, and world-class entertainment. Join the Alameda de Hércules movement."
-      heroImage="https://res.cloudinary.com/dhuc2wmhp/image/upload/f_auto,q_auto,w_1600,h_900,c_fill/cannabis-clubs-spain/city-seville"
+      heroImage="https://res.cloudinary.com/dhuc2wmhp/image/upload/f_auto,q_auto,w_1600,h_900,c_fill/cannabis-clubs-spain/hero-seville"
       heroAlt="Cannabis clubs in Seville, Spain"
       breadcrumb={[{ name: 'Seville', href: '/seville' }]}
       ctaVariant="invitation"

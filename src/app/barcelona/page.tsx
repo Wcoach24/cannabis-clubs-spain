@@ -74,7 +74,7 @@ export default function BarcelonaPage() {
     <ArticleLayout
       title="Cannabis Clubs in Barcelona — Best Clubs & Guide 2026"
       description="Complete guide to Barcelona's cannabis scene. Club directory, neighborhood breakdown, membership info, and how to join as a tourist."
-      heroImage="https://res.cloudinary.com/dhuc2wmhp/image/upload/f_auto,q_auto,w_1600,h_900,c_fill/cannabis-clubs-spain/city-barcelona"
+      heroImage="https://res.cloudinary.com/dhuc2wmhp/image/upload/f_auto,q_auto,w_1600,h_900,c_fill/cannabis-clubs-spain/hero-barcelona"
       heroAlt="Cannabis clubs in Barcelona, Spain"
       breadcrumb={[{ name: "Barcelona", href: "/barcelona" }]}
       ctaVariant="invitation"
